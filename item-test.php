@@ -15,3 +15,4 @@ $tems[] = new Item("churro","Includes caramel sauce!",2.95);
 echo '<prev>';
 var_dump($items);
 echo '</pre>';
+
